@@ -1,4 +1,4 @@
-/*******Anitha********/
+
 package com.msoftgp.test;
 
 import junit.framework.Assert;
